@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "859768783458",
+    "firebase_url": "https://football-dd2b5.firebaseio.com",
+    "project_id": "football-dd2b5",
+    "storage_bucket": "football-dd2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859768783458:android:9f805f5d428d3d7a",
+        "android_client_info": {
+          "package_name": "apps.bustomi.football.matchfootbalapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859768783458-h2k3rduhjouja38v20n1c37abvqdo76e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.bustomi.football.matchfootbalapps",
+            "certificate_hash": "4965a9aedd74cf3f8b2a0883ea94d7e2afd76b23"
+          }
+        },
+        {
+          "client_id": "859768783458-03i4gh3mg3g1e19rco3nu4422tvj1p67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_tlIaOhH6zPyLnYHFqUSgS5-5e0H1oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859768783458-03i4gh3mg3g1e19rco3nu4422tvj1p67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859768783458:android:363310d17d67835a",
+        "android_client_info": {
+          "package_name": "apps.bustomi.uts.matchfootbalapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859768783458-edvn269tg21bskk19t1s92j5a0h8cpnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.bustomi.uts.matchfootbalapps",
+            "certificate_hash": "4965a9aedd74cf3f8b2a0883ea94d7e2afd76b23"
+          }
+        },
+        {
+          "client_id": "859768783458-03i4gh3mg3g1e19rco3nu4422tvj1p67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_tlIaOhH6zPyLnYHFqUSgS5-5e0H1oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859768783458-03i4gh3mg3g1e19rco3nu4422tvj1p67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859768783458:android:023c13a9cddcae07",
+        "android_client_info": {
+          "package_name": "apps.farid.football.matchfootbalapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859768783458-k95r2pnghcc3g0gjco4q43bc3mkar2r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.farid.football.matchfootbalapps",
+            "certificate_hash": "4965a9aedd74cf3f8b2a0883ea94d7e2afd76b23"
+          }
+        },
+        {
+          "client_id": "859768783458-03i4gh3mg3g1e19rco3nu4422tvj1p67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_tlIaOhH6zPyLnYHFqUSgS5-5e0H1oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859768783458-03i4gh3mg3g1e19rco3nu4422tvj1p67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
